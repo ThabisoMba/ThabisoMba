@@ -5,7 +5,7 @@ I'm a final -year Information Technology(Software Development) student at Nelson
 
 Skills I'm familiar with:
 -HTML5, CSS, JavaScript, JQUERY, Python, SQL, 
--C#, ASP.NET , ADO.NET, FullStack, Node.js
+-C#, ASP.NET , ADO.NET, FullStack, Node.js, MVC
 
 Let's connect !
 -Email: s229037275@mandela.ac.za
